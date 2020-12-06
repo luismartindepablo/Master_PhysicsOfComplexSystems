@@ -1,1 +1,2 @@
-Projects, papers and exercises from my Master in Physics of Complex Systems.
+# Physics of Complex Systems
+This repository holds some of the projects I did during my Master's degree.
