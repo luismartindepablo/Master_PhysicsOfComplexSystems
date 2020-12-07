@@ -17,4 +17,5 @@ This repository holds some of the projects I did during my Master's degree.
   - Jet Flow
   - Chirikov Standard Map
   - Sine Flow
- 
+- **MSc Thesis**
+  - Vegetation Front Dynamics
