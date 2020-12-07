@@ -13,4 +13,8 @@ This repository holds some of the projects I did during my Master's degree.
   - Flocking of Birds
 - **System's Biology**
   - Lipids Folding with MonteCarlo
+- **Turbulent Flows**
+  - Jet Flow
+  - Chirikov Standard Map
+  - Sine Flow
  
