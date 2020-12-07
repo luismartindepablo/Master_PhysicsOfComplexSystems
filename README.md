@@ -11,3 +11,6 @@ This repository holds some of the projects I did during my Master's degree.
 - **Cooperative Phenomena**
   - Ising Model with MonteCarlo and Wolf algorithms
   - Flocking of Birds
+- **System's Biology**
+  - Lipids Folding with MonteCarlo
+ 
